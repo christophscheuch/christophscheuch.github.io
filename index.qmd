@@ -25,7 +25,7 @@ about:
 
 :::{#hero-heading}
 
-I am the Director of Product at the social trading platform **[wikifolio.com](https://www.wikifolio.com?utm_source=christophscheuch.github.io)** and co-author of the book **[Tidy Finance with R](https://www.tidy-finance.org?utm_source=christophscheuch.github.io)**
+I am the Head of AI at the social trading platform **[wikifolio.com](https://www.wikifolio.com?utm_source=christophscheuch.github.io)** and co-author of the book **[Tidy Finance with R](https://www.tidy-finance.org?utm_source=christophscheuch.github.io)**
 
 ## Education
 
