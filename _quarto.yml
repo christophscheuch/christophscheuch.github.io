@@ -11,7 +11,7 @@ website:
   page-navigation: true
   search: false
   google-analytics: 
-    tracking-id: "UA-173478655-1"
+    tracking-id: "G-F7XCD5Z8SZ"
     anonymze-ip: true
   cookie-consent: 
     type: express
