@@ -25,7 +25,9 @@ about:
 
 :::{#hero-heading}
 
-I am the Head of AI at the social trading platform **[wikifolio.com](https://www.wikifolio.com?utm_source=christophscheuch.github.io)** and co-author of the book **[Tidy Finance with R](https://www.tidy-finance.org?utm_source=christophscheuch.github.io)**
+I'm the Head of AI at the social trading platform **[wikifolio.com](https://www.wikifolio.com?utm_source=christophscheuch.github.io)** and co-author and maintainer of the project **[Tidy Finance](https://www.tidy-finance.org?utm_source=christophscheuch.github.io)**.
+
+I occasionally design shirts and mugs that you can find under the **[Tidy Swag](https://www.tidy-swag.com?utm_source=christophscheuch.github.io)** brand.
 
 ## Education
 
@@ -37,6 +39,11 @@ MSc in Economics | Sep 2009 - Jun 2015
 
 :::
 
+# Publications
+
+**[Tidy Finance with R](https://www.tidy-finance.org/r/?utm_source=christophscheuch.github.io)** (Chapman and Hall/CRC) <br/>
+Joint work with Stefan Voigt and Patrick Weiss
+
 # Research 
 
 **[Crowdfunding and Demand Uncertainty](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3578402)**
@@ -47,8 +54,14 @@ Joint work with Francesco D’Acunto, Thomas Rauter and Michael Weber
 **[Building Trust Takes Time: Limits to Arbitrage in Blockchain-Based Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302159)**<br/>
 Joint work with Nikolaus Hautsch and Stefan Voigt
 
-**[Fishing with Pearls: The Value of Lending Relationships with Prestigious Firms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2703343)**<br/>
+**[Fishing with Pearls: The Value of Lending Relationships with Prestigious Firms](https://www.zbw.eu/econis-archiv/handle/11159/274096)**<br/>
 Joint work with Alexander Mürmann and Thomas Rauter
+
+**[Why Do Mutual Funds Hold Cash?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3075091)**<br/>
+Joint work with Maria Chaderina
+
+**[The Dark Side of Liquid Bonds in Fire Sales](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2995544)**<br/>
+Joint work with Maria Chaderina and Alexander Mürmann
 
 # Teaching
 
