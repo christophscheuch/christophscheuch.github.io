@@ -12,9 +12,6 @@ about:
     - icon: envelope
       text: Mail
       href: 'mailto:christoph.scheuch@wikifolio.com'  # For a direct email link, use "mailto:test@example.org".
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/KriseScheuch
     - icon: github
       text: Github
       href: https://github.com/christophscheuch
@@ -28,6 +25,8 @@ about:
 I'm the Head of AI at the social trading platform **[wikifolio.com](https://www.wikifolio.com?utm_source=christophscheuch.github.io)** and co-author and maintainer of the project **[Tidy Finance](https://www.tidy-finance.org?utm_source=christophscheuch.github.io)**.
 
 I occasionally design shirts and mugs that you can find under the **[Tidy Swag](https://www.tidy-swag.com?utm_source=christophscheuch.github.io)** brand.
+
+I'm also co-organizing events of the **[Berlin R Users Group](https://www.meetup.com/de-DE/berlin-r-users-group/)**. 
 
 ## Education
 
@@ -44,15 +43,18 @@ MSc in Economics | Sep 2009 - Jun 2015
 **[Tidy Finance with R](https://www.tidy-finance.org/r/?utm_source=christophscheuch.github.io)** (Chapman and Hall/CRC) <br/>
 Joint work with Stefan Voigt and Patrick Weiss
 
+**[Tidy Finance with Python](https://www.tidy-finance.org/python/?utm_source=christophscheuch.github.io)** (Chapman and Hall/CRC, Forthcoming) <br/>
+Joint work with Christoph Frey, Stefan Voigt, and Patrick Weiss
+
+**[Building Trust Takes Time: Limits to Arbitrage for Blockchain-Based Assets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302159)** (Review of Finance, Forthcoming)<br/>
+Joint work with Nikolaus Hautsch and Stefan Voigt
+
 # Research 
 
 **[Crowdfunding and Demand Uncertainty](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3578402)**
 
 **[Perceived Precautionary Savings Motives: Evidence from FinTech](https://www.nber.org/papers/w26817)**<br/>
 Joint work with Francesco D’Acunto, Thomas Rauter and Michael Weber
-
-**[Building Trust Takes Time: Limits to Arbitrage in Blockchain-Based Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302159)**<br/>
-Joint work with Nikolaus Hautsch and Stefan Voigt
 
 **[Fishing with Pearls: The Value of Lending Relationships with Prestigious Firms](https://www.zbw.eu/econis-archiv/handle/11159/274096)**<br/>
 Joint work with Alexander Mürmann and Thomas Rauter
