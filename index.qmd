@@ -26,7 +26,7 @@ about:
 
 I'm the Head of AI at the social trading platform **[wikifolio.com](https://www.wikifolio.com?utm_source=christophscheuch.github.io)** and co-author and maintainer of the project **[Tidy Finance](https://www.tidy-finance.org?utm_source=christophscheuch.github.io)**.
 
-I write about tidy data science on my blog **[Tidy Intelligence](https://blog.tidy-intelligence.com/?utm_source=christophscheuch.github.io)**.
+I write about tidy data science with R, Python and Julia on my blog **[Tidy Intelligence](https://blog.tidy-intelligence.com/?utm_source=christophscheuch.github.io)**.
 
 I occasionally design shirts and mugs that you can find under the **[Tidy Swag](https://www.etsy.com/shop/tidyswag/?etsrc=sdt&utm_source=christophscheuch.github.io)** brand.
 
