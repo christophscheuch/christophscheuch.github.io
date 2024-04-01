@@ -7,7 +7,7 @@ website:
 about:
   id: hero-heading
   template: trestles
-  image: avatar.jpeg
+  image: avatar.jpg
   image-width: 15em
   image-shape: round
   links:
