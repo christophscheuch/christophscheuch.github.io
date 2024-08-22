@@ -34,7 +34,7 @@ format:
     theme: 
       light: [cosmo, theme-light.scss]
     css: styles.css
-    toc: true
+    toc: false
     section-divs: true
     number-sections: false
     embed-resources: false
