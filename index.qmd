@@ -13,7 +13,7 @@ about:
   links:
     - icon: envelope
       text: Mail
-      href: "mailto:christoph.scheuch@wikifolio.com"
+      href: "mailto:christoph@tidy-intelligence.com"
     - icon: github
       text: Github
       href: https://github.com/christophscheuch
