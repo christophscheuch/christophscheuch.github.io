@@ -5,34 +5,15 @@ project:
 website:
   title: "Christoph Scheuch"
   site-url: https://christophscheuch.github.io/
-  description: "Personal website of Christoph Scheuch"
-  favicon: favicon.png
+  description: "Christoph Scheuch"
+  favicon: favicon.ico
   open-graph: true
   page-navigation: true
   search: false
-  google-analytics: 
-    tracking-id: "G-F7XCD5Z8SZ"
-    anonymze-ip: true
-  cookie-consent: 
-    type: express
-    style: interstitial 
-    palette: light
-  navbar:
-    left:
-      - href: index.qmd#publications
-        text: Publications
-      - href: index.qmd#research
-        text: Research
-      - href: index.qmd#teaching
-        text: Teaching
-  page-footer:
-    center: 
-      - text: "&copy; Chistoph Scheuch"
 
 format:
   html:
-    theme: 
-      light: [cosmo, theme-light.scss]
+    theme: cosmo
     css: styles.css
     toc: false
     section-divs: true

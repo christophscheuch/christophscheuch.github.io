@@ -10,73 +10,21 @@ about:
   image: avatar.jpg
   image-width: 15em
   image-shape: round
-  links:
-    - icon: envelope
-      text: Mail
-      href: "mailto:christoph@tidy-intelligence.com"
-    - icon: github
-      text: Github
-      href: https://github.com/christophscheuch
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/christophscheuch/
 ---
 
 :::{#hero-heading}
 
-I'm an **[independent expert](https://www.linkedin.com/in/christophscheuch/)** in finance & data and provide services and trainings related to data infrastructure, data analysis, machine learning, and general data science topics.
+I’m a freelance creator specializing in interactive dashboards, automated reports, custom packages, and tailored workshops using R and Python, working under the Tidy Intelligence brand.
 
-Previously, I was the Head of AI, Director of Product, and Head of BI & Data Science at the social trading platform **[wikifolio.com](https://www.wikifolio.com?utm_source=christophscheuch.github.io)** 
+```{=html}
+<div class="button-group">
+<a href="https://www.tidy-intelligence.com/about.html" class="cta-button">
+    More about me
+</a>
 
-I'm also co-creator and maintainer of the project **[Tidy Finance](https://www.tidy-finance.org?utm_source=christophscheuch.github.io)**.
-
-I write about tidy data science with R, Python and Julia on my blog **[Tidy Intelligence](https://blog.tidy-intelligence.com/?utm_source=christophscheuch.github.io)**.
-
-I occasionally design shirts and mugs that you can find under the **[Tidy Swag](https://www.etsy.com/shop/tidyswag/?etsrc=sdt&utm_source=christophscheuch.github.io)** brand.
-
-I'm also co-organizing events of the **[Berlin R Users Group](https://www.meetup.com/de-DE/berlin-r-users-group/)**. 
-
+<a href="https://www.linkedin.com/in/christophscheuch/" class="cta-button">
+    Follow on LinkedIn
+</a>
+<div>
+```
 :::
-
-## Education
-
-Vienna Graduate School of Finance <br/>
-PhD in Finance | Sep 2015 - Jun 2020
-
-University of Vienna <br/>
-MSc in Economics | Sep 2009 - Jun 2015
-
-# Publications
-
-**[Tidy Finance with R](https://www.tidy-finance.org/r/?utm_source=christophscheuch.github.io)** (Chapman and Hall/CRC, 2023) <br/>
-Joint work with Stefan Voigt and Patrick Weiss
-
-**[Tidy Finance with Python](https://www.tidy-finance.org/python/?utm_source=christophscheuch.github.io)** (Chapman and Hall/CRC, 2024) <br/>
-Joint work with Christoph Frey, Stefan Voigt, and Patrick Weiss
-
-**[Building Trust Takes Time: Limits to Arbitrage for Blockchain-Based Assets](https://academic.oup.com/rof/article-abstract/28/4/1345/7609678?redirectedFrom=fulltext)** (Review of Finance, 2024)<br/>
-Joint work with Nikolaus Hautsch and Stefan Voigt
-
-# Research 
-
-**[Crowdfunding and Demand Uncertainty](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3578402)**
-
-**[Perceived Precautionary Savings Motives: Evidence from FinTech](https://www.nber.org/papers/w26817)**<br/>
-Joint work with Francesco D’Acunto, Thomas Rauter and Michael Weber
-
-**[Fishing with Pearls: The Value of Lending Relationships with Prestigious Firms](https://www.zbw.eu/econis-archiv/handle/11159/274096)**<br/>
-Joint work with Alexander Mürmann and Thomas Rauter
-
-**[Why Do Mutual Funds Hold Cash?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3075091)**<br/>
-Joint work with Maria Chaderina
-
-**[The Dark Side of Liquid Bonds in Fire Sales](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2995544)**<br/>
-Joint work with Maria Chaderina and Alexander Mürmann
-
-# Teaching
-
-* Gutman Private Wealth Management Seminar: FinTech
-* Perm Winter School: Liquidity Monitoring
-* University of Vienna: Calculus, Keynes for Beginners, International Macroeconomics, Macroeconomics and Inequality
-* WU (Vienna University of Economics and Business): Linear Algebra, Industry Lab
-* TU (Vienna University of Technology): Microeconomics
