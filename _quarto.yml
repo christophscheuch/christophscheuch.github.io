@@ -21,4 +21,5 @@ format:
     embed-resources: false
     anchor-sections: true
     smooth-scroll: true
+    include-in-header: header.html
 

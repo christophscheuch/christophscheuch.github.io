@@ -19,11 +19,17 @@ I’m a freelance creator specializing in interactive dashboards, automated repo
 ```{=html}
 <div class="button-group">
 <a href="https://www.tidy-intelligence.com/about.html" class="cta-button">
-    More about me
+    Learn more
 </a>
 
 <a href="https://www.linkedin.com/in/christophscheuch/" class="cta-button">
-    Follow on LinkedIn
+    Follow on <i class="fab fa-linkedin"></i>
+</a>
+<a href="https://bsky.app/profile/christophscheuch.bsky.social" class="cta-button">
+    Follow on <i class="fa-brands fa-bluesky"></i>
+</a>
+<a href="https://github.com/tidy-intelligence" class="cta-button">
+    Follow on <i class="fa-brands fa-github"></i>
 </a>
 <div>
 ```
