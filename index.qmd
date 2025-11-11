@@ -14,7 +14,11 @@ about:
 
 :::{#hero-heading}
 
-I’m a freelance creator specializing in interactive dashboards, automated reports, custom packages, and tailored workshops using R and Python, working under the Tidy Intelligence brand.
+I’m a freelance creator specializing in interactive dashboards, automated reports, custom packages, and tailored workshops using R and Python, working under the [Tidy Intelligence](https://www.tidy-intelligence.com/) brand.
+
+I co-created the open-source projects [Tidy Finance](https://www.tidy-finance.org/) and [EconDataverse](https://www.econdataverse.org/) to foster reproducible research in finance and economics. 
+
+I'm affiliated with the Finance Group at [Humboldt-University of Berlin](https://www.wiwi.hu-berlin.de/en/Professorships/bwl/finance) and Data Editor at the [Review of Financial Studies](https://review-of-financial-studies.github.io/). 
 
 ```{=html}
 <div class="button-group">
@@ -31,6 +35,25 @@ I’m a freelance creator specializing in interactive dashboards, automated repo
 <a href="https://github.com/tidy-intelligence" class="cta-button">
     Follow on <i class="fa-brands fa-github"></i>
 </a>
-<div>
+</div>
 ```
+ 
 :::
+
+## Publications
+
+### Peer-Reviewed
+
+**Chaderina, M., Muermann, A., & Scheuch, C.** (2025). *The dark side of liquid bonds in fire sales*. _Management Science_, Forthcoming. [doi.org/10.2139/ssrn.2995544](https://doi.org/10.2139/ssrn.2995544)
+
+**Hautsch, N., Scheuch, C., & Voigt, S.** (2024). *Building trust takes time: Limits to arbitrage for blockchain-based assets*. _Review of Finance, 28_(4), 1345–1381. [doi.org/10.1093/rof/rfae004](https://doi.org/10.1093/rof/rfae004)
+
+### Books
+
+**Scheuch, C., Voigt, S., Weiss, P., & Frey, C.** (2024). *Tidy Finance with Python*. Chapman and Hall/CRC. [doi.org/10.1201/9781032684307](https://doi.org/10.1201/9781032684307)
+
+**Scheuch, C., Voigt, S., & Weiss, P.** (2023). *Tidy Finance with R*. Chapman and Hall/CRC. [doi.org/10.1201/b23237](https://doi.org/10.1201/b23237)
+
+### Working Papers
+
+**D’Acunto, F., Rauter, T., Scheuch, C., & Weber, M.** (2020). *Perceived precautionary savings motives: Evidence from FinTech*. _NBER Working Paper No. 26817, National Bureau of Economic Research. [doi.org/10.3386/w26817](https://doi.org/10.3386/w26817) 

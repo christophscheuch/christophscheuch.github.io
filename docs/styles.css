@@ -13,7 +13,7 @@ div.quarto-about-trestles .about-contents {
 }
 
 #hero-heading {
-  text-align: center;
+  text-align: left;
   align-items: center;
 }
 
@@ -40,6 +40,7 @@ div.quarto-about-trestles .about-contents {
   flex-direction: row;
   gap: 16px;
   justify-content: center;
+  margin-bottom: 16px;
 }
 
 @media screen and (max-width: 800px) {
@@ -48,4 +49,13 @@ div.quarto-about-trestles .about-contents {
     gap: 16px;
     text-align: center;
   }
+}
+
+h2 {
+  margin-top: 4rem;
+  border-bottom: none;
+}
+
+h3 {
+  color: var(--color-black);
 }
