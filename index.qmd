@@ -14,11 +14,11 @@ about:
 
 :::{#hero-heading}
 
-I’m a freelance creator specializing in interactive dashboards, automated reports, custom packages, and tailored workshops using R and Python, working under the [Tidy Intelligence](https://www.tidy-intelligence.com/) brand.
+I'm an Associate Researcher at [Humboldt-University of Berlin](https://www.wiwi.hu-berlin.de/en/Professorships/bwl/finance) and Data Editor at the [Review of Financial Studies](https://review-of-financial-studies.github.io/). 
 
 I co-created the open-source projects [Tidy Finance](https://www.tidy-finance.org/) and [EconDataverse](https://www.econdataverse.org/) to foster reproducible research in finance and economics. 
 
-I'm affiliated with the Finance Group at [Humboldt-University of Berlin](https://www.wiwi.hu-berlin.de/en/Professorships/bwl/finance) and Data Editor at the [Review of Financial Studies](https://review-of-financial-studies.github.io/). 
+I’m also an independent consultant specializing in interactive dashboards, automated reports, custom packages, and tailored workshops using R and Python, working under the [Tidy Intelligence](https://www.tidy-intelligence.com/) brand.
 
 ```{=html}
 <div class="button-group">
