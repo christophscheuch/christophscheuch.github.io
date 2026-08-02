@@ -18,7 +18,7 @@ I'm an Associate Researcher at [Humboldt-University of Berlin](https://www.wiwi.
 
 I co-created the open-source projects [Tidy Finance](https://www.tidy-finance.org/) and [EconDataverse](https://www.econdataverse.org/) to foster reproducible research in finance and economics. 
 
-I’m also an independent consultant specializing in interactive dashboards, automated reports, custom packages, and tailored workshops using R and Python, working under the [Tidy Intelligence](https://www.tidy-intelligence.com/) brand.
+I’m also an independent consultant specializing in reproducible and auditable workflows, operating under the [Tidy Intelligence](https://www.tidy-intelligence.com/) brand.
 
 ```{=html}
 <div class="button-group">
@@ -40,13 +40,13 @@ I’m also an independent consultant specializing in interactive dashboards, aut
  
 :::
 
-## Publications
+## Research
 
 ### Peer-Reviewed
 
-**Chaderina, M., Muermann, A., & Scheuch, C.** (2025). *The dark side of liquid bonds in fire sales*. _Management Science_, Forthcoming. [doi.org/10.2139/ssrn.2995544](https://doi.org/10.2139/ssrn.2995544)
+**Chaderina, M., Muermann, A., & Scheuch, C.** (2026). *The dark side of liquid bonds in fire sales*. Management Science, Forthcoming. [doi.org/10.1287/mnsc.2023.03670](https://doi.org/10.1287/mnsc.2023.03670)
 
-**Hautsch, N., Scheuch, C., & Voigt, S.** (2024). *Building trust takes time: Limits to arbitrage for blockchain-based assets*. _Review of Finance, 28_(4), 1345–1381. [doi.org/10.1093/rof/rfae004](https://doi.org/10.1093/rof/rfae004)
+**Hautsch, N., Scheuch, C., & Voigt, S.** (2024). *Building trust takes time: Limits to arbitrage for blockchain-based assets*. Review of Finance, 28 (4), 1345–1381. [doi.org/10.1093/rof/rfae004](https://doi.org/10.1093/rof/rfae004)
 
 ### Books
 
@@ -56,4 +56,14 @@ I’m also an independent consultant specializing in interactive dashboards, aut
 
 ### Working Papers
 
-**D’Acunto, F., Rauter, T., Scheuch, C., & Weber, M.** (2020). *Perceived precautionary savings motives: Evidence from FinTech*. _NBER Working Paper No. 26817, National Bureau of Economic Research. [doi.org/10.3386/w26817](https://doi.org/10.3386/w26817) 
+**Coqueret, G., Llull, J., Oswald, F., Pérignon, C., Scheuch, C., & Vilhuber, L.** (2026). *Randomness in large language models: What researchers need to know (and report)*. Working Paper. [doi.org/10.2139/ssrn.7191580](https://doi.org/10.2139/ssrn.7191580)
+
+**D’Acunto, F., Rauter, T., Scheuch, C., & Weber, M.** (2020). *Perceived precautionary savings motives: Evidence from FinTech*. NBER Working Paper No. 26817, National Bureau of Economic Research. [doi.org/10.3386/w26817](https://doi.org/10.3386/w26817) 
+
+## Teaching
+
+**Foundations for Reproducible Research** at [Barcelona School of Economics](https://bse.eu/summer-school/data-science-finance/tidy-finance-reproducible-research-in-data-science): An annual summer school on reproducible empirical finance research, with hands-on coding in Python.
+
+**Empirical Research in Finance** at [Humboldt University of Berlin](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=247222&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung): A regular seminar on applying core financial theory to real-world data using generative AI tools, designed to prepare students for their bachelor thesis.
+
+**Reproducible Research Workflows** at [Vienna Graduate School of Finance](https://www.vgsf.ac.at/reproducible-research-workflows-workshop/): An annual workshop on reproducibility techniques and efficient collaboration for empirical research.

@@ -4,13 +4,20 @@
     "href": "index.html",
     "title": "Christoph Scheuch",
     "section": "",
-    "text": "I’m an Associate Researcher at Humboldt-University of Berlin and Data Editor at the Review of Financial Studies.\nI co-created the open-source projects Tidy Finance and EconDataverse to foster reproducible research in finance and economics.\nI’m also an independent consultant specializing in interactive dashboards, automated reports, custom packages, and tailored workshops using R and Python, working under the Tidy Intelligence brand.\n\n\n    Learn more\n\n\n    Follow on \n\n\n    Follow on \n\n\n    Follow on"
+    "text": "I’m an Associate Researcher at Humboldt-University of Berlin and Data Editor at the Review of Financial Studies.\nI co-created the open-source projects Tidy Finance and EconDataverse to foster reproducible research in finance and economics.\nI’m also an independent consultant specializing in reproducible and auditable workflows, operating under the Tidy Intelligence brand.\n\n\n    Learn more\n\n\n    Follow on \n\n\n    Follow on \n\n\n    Follow on"
   },
   {
-    "objectID": "index.html#publications",
-    "href": "index.html#publications",
+    "objectID": "index.html#research",
+    "href": "index.html#research",
     "title": "Christoph Scheuch",
-    "section": "Publications",
-    "text": "Publications\n\nPeer-Reviewed\nChaderina, M., Muermann, A., & Scheuch, C. (2025). The dark side of liquid bonds in fire sales. Management Science, Forthcoming. doi.org/10.2139/ssrn.2995544\nHautsch, N., Scheuch, C., & Voigt, S. (2024). Building trust takes time: Limits to arbitrage for blockchain-based assets. Review of Finance, 28(4), 1345–1381. doi.org/10.1093/rof/rfae004\n\n\nBooks\nScheuch, C., Voigt, S., Weiss, P., & Frey, C. (2024). Tidy Finance with Python. Chapman and Hall/CRC. doi.org/10.1201/9781032684307\nScheuch, C., Voigt, S., & Weiss, P. (2023). Tidy Finance with R. Chapman and Hall/CRC. doi.org/10.1201/b23237\n\n\nWorking Papers\nD’Acunto, F., Rauter, T., Scheuch, C., & Weber, M. (2020). Perceived precautionary savings motives: Evidence from FinTech. _NBER Working Paper No. 26817, National Bureau of Economic Research. doi.org/10.3386/w26817"
+    "section": "Research",
+    "text": "Research\n\nPeer-Reviewed\nChaderina, M., Muermann, A., & Scheuch, C. (2026). The dark side of liquid bonds in fire sales. Management Science, Forthcoming. doi.org/10.1287/mnsc.2023.03670\nHautsch, N., Scheuch, C., & Voigt, S. (2024). Building trust takes time: Limits to arbitrage for blockchain-based assets. Review of Finance, 28 (4), 1345–1381. doi.org/10.1093/rof/rfae004\n\n\nBooks\nScheuch, C., Voigt, S., Weiss, P., & Frey, C. (2024). Tidy Finance with Python. Chapman and Hall/CRC. doi.org/10.1201/9781032684307\nScheuch, C., Voigt, S., & Weiss, P. (2023). Tidy Finance with R. Chapman and Hall/CRC. doi.org/10.1201/b23237\n\n\nWorking Papers\nCoqueret, G., Llull, J., Oswald, F., Pérignon, C., Scheuch, C., & Vilhuber, L. (2026). Randomness in large language models: What researchers need to know (and report). Working Paper. doi.org/10.2139/ssrn.7191580\nD’Acunto, F., Rauter, T., Scheuch, C., & Weber, M. (2020). Perceived precautionary savings motives: Evidence from FinTech. NBER Working Paper No. 26817, National Bureau of Economic Research. doi.org/10.3386/w26817"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Christoph Scheuch",
+    "section": "Teaching",
+    "text": "Teaching\nFoundations for Reproducible Research at Barcelona School of Economics: An annual summer school on reproducible empirical finance research, with hands-on coding in Python.\nEmpirical Research in Finance at Humboldt University of Berlin: A regular seminar on applying core financial theory to real-world data using generative AI tools, designed to prepare students for their bachelor thesis.\nReproducible Research Workflows at Vienna Graduate School of Finance: An annual workshop on reproducibility techniques and efficient collaboration for empirical research."
   }
 ]
