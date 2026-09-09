@@ -1,5 +1,6 @@
 ---
 title: ""
+description: "Christoph Scheuch is a financial economist, Data Editor for the Review of Financial Studies, and co-creator of Tidy Finance and EconDataverse."
 metadata:
   pagetitle: "Christoph Scheuch"
 website:
@@ -14,11 +15,11 @@ about:
 
 :::{#hero-heading}
 
-I'm an Associate Researcher at [Humboldt-University of Berlin](https://www.wiwi.hu-berlin.de/en/Professorships/bwl/finance) and Data Editor at the [Review of Financial Studies](https://review-of-financial-studies.github.io/). 
+I'm an Associate Researcher at [Humboldt University of Berlin](https://www.wiwi.hu-berlin.de/en/Professorships/bwl/finance) and a Data Editor at the [Review of Financial Studies](https://review-of-financial-studies.github.io/). 
 
 I co-created the open-source projects [Tidy Finance](https://www.tidy-finance.org/) and [EconDataverse](https://www.econdataverse.org/) to foster reproducible research in finance and economics. 
 
-I’m also an independent consultant specializing in reproducible and auditable workflows, operating under the [Tidy Intelligence](https://www.tidy-intelligence.com/) brand.
+Through [Tidy Intelligence](https://www.tidy-intelligence.com/), I audit research workflows: mapping how raw data becomes results, reporting where a workflow is fragile and what to fix first. I also train teams in the practices that keep their results reproducible.
 
 ```{=html}
 <div class="button-group">
@@ -32,7 +33,7 @@ I’m also an independent consultant specializing in reproducible and auditable 
 <a href="https://bsky.app/profile/christophscheuch.bsky.social" class="cta-button">
     Follow on <i class="fa-brands fa-bluesky"></i>
 </a>
-<a href="https://github.com/tidy-intelligence" class="cta-button">
+<a href="https://github.com/christophscheuch" class="cta-button">
     Follow on <i class="fa-brands fa-github"></i>
 </a>
 </div>

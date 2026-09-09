@@ -5,7 +5,7 @@ project:
 website:
   title: "Christoph Scheuch"
   site-url: https://christophscheuch.github.io/
-  description: "Christoph Scheuch"
+  description: "Christoph Scheuch is a financial economist, Data Editor for the Review of Financial Studies, and co-creator of Tidy Finance and EconDataverse."
   favicon: favicon.ico
   open-graph: true
   page-navigation: true
