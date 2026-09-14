@@ -57,6 +57,8 @@ Through [Tidy Intelligence](https://www.tidy-intelligence.com/), I audit researc
 
 ### Working Papers
 
+**Chaderina, M. & Scheuch, C.** (2026). *Liquidity Management of Mutual Funds*. Working Paper. [doi.org/10.2139/ssrn.3075091](http://dx.doi.org/10.2139/ssrn.3075091)
+
 **Coqueret, G., Llull, J., Oswald, F., Pérignon, C., Scheuch, C., & Vilhuber, L.** (2026). *Randomness in large language models: What researchers need to know (and report)*. Working Paper. [doi.org/10.2139/ssrn.7191580](https://doi.org/10.2139/ssrn.7191580)
 
 **D’Acunto, F., Rauter, T., Scheuch, C., & Weber, M.** (2020). *Perceived precautionary savings motives: Evidence from FinTech*. NBER Working Paper No. 26817, National Bureau of Economic Research. [doi.org/10.3386/w26817](https://doi.org/10.3386/w26817) 
