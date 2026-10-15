@@ -21,8 +21,8 @@ div.quarto-about-trestles .about-contents {
   background-color: #fff;
   color: var(--color-black);
   border: 2px solid var(--color-black);
-  border-radius: 8px;
-  padding: 0.5rem 1.5rem;
+  border-radius: 999px;
+  padding: 0.45rem 1.4rem;
   font-size: 1rem;
   font-weight: 600;
   cursor: pointer;
@@ -31,31 +31,140 @@ div.quarto-about-trestles .about-contents {
 }
 
 .cta-button:hover {
-  background-color: var(--color-black);
-  color: #fff;
+  background-color: var(--color-main);
+  border-color: var(--color-main);
+  color: var(--color-black);
 }
 
 .button-group {
   display: flex;
   flex-direction: row;
-  gap: 16px;
+  gap: 12px;
   justify-content: center;
+  margin-top: 1.75rem;
   margin-bottom: 16px;
 }
 
+.cta-button i {
+  margin-right: 0.35rem;
+}
+
+.hero-intro {
+  text-align: center;
+  margin-bottom: 1.75rem;
+}
+
+.hero-intro p {
+  margin: 0;
+}
+
+.hero-name {
+  display: block;
+  font-size: 2.25rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: var(--color-black);
+}
+
+.hero-tagline {
+  display: inline-block;
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #6c6c6c;
+}
+
+div.quarto-about-trestles .about-entity {
+  margin-bottom: 1.25rem;
+}
+
+div.quarto-about-trestles .about-image {
+  border: 4px solid color-mix(in srgb, var(--color-main) 60%, transparent);
+}
+
 @media screen and (max-width: 800px) {
-   .button-group {
-    flex-direction: column;
-    gap: 16px;
-    text-align: center;
+  .button-group {
+    flex-wrap: wrap;
   }
 }
 
 h2 {
   margin-top: 4rem;
   border-bottom: none;
+  position: relative;
+  width: fit-content;
+}
+
+h2::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 4px;
+  margin-top: 0.4rem;
+  border-radius: 2px;
+  background-color: var(--color-main);
 }
 
 h3 {
   color: var(--color-black);
+}
+
+h3 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Research and teaching entries */
+
+.entry-label {
+  margin: 1.75rem 0 0.75rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #6c6c6c;
+}
+
+.entry-label p {
+  margin: 0;
+}
+
+.entry {
+  border-left: 3px solid var(--color-main);
+  padding: 0.15rem 0 0.15rem 1rem;
+  margin-bottom: 1.25rem;
+}
+
+.entry p {
+  margin: 0;
+}
+
+.entry p:first-child {
+  margin-bottom: 0.25rem;
+}
+
+.entry p:first-child a {
+  font-weight: 600;
+  margin-right: 0.5rem;
+}
+
+.entry-meta {
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 0.1rem 0.55rem;
+  border-radius: 999px;
+  background-color: color-mix(in srgb, var(--color-main) 30%, transparent);
+  color: var(--color-black);
+  white-space: nowrap;
+  vertical-align: 0.1em;
+}
+
+.entry p:not(:first-child) {
+  color: #555;
+}
+
+.entry-past {
+  border-left-color: #d9d9d9;
 }

@@ -15,23 +15,28 @@ about:
 
 :::{#hero-heading}
 
+::: {.hero-intro}
+[Christoph Scheuch]{.hero-name}
+
+[Financial economist · Reproducible research · Data workflows]{.hero-tagline}
+:::
+
 I'm an Associate Researcher at [Humboldt University of Berlin](https://www.wiwi.hu-berlin.de/en/Professorships/bwl/finance), an Open Science Ambassador of the [Berlin University Alliance](https://www.berlin-university-alliance.de/en/commitments/research-quality/openx/os-botschafter-innen/index.html), and a Data Editor at the [Review of Financial Studies](https://review-of-financial-studies.github.io/). 
 
 I co-created the open-source projects [Tidy Finance](https://www.tidy-finance.org/) and [EconDataverse](https://www.econdataverse.org/) to foster reproducible research in finance and economics. 
 
-Through [Tidy Intelligence](https://www.tidy-intelligence.com/), I audit data workflows: mapping how raw data becomes results, reporting where a workflow is fragile and what to fix first. I also train teams in the practices that keep their results trustworthy.
+Through [Tidy Intelligence](https://www.tidy-intelligence.com/), I audit and improve data workflows. I also offer trainings in the practices that keep their results trustworthy.
 
 ```{=html}
 <div class="button-group">
-
 <a href="https://www.linkedin.com/in/christophscheuch/" class="cta-button">
-    Follow on <i class="fab fa-linkedin"></i>
+    <i class="fa-brands fa-linkedin"></i> LinkedIn
 </a>
 <a href="https://bsky.app/profile/christophscheuch.bsky.social" class="cta-button">
-    Follow on <i class="fa-brands fa-bluesky"></i>
+    <i class="fa-brands fa-bluesky"></i> Bluesky
 </a>
 <a href="https://github.com/christophscheuch" class="cta-button">
-    Follow on <i class="fa-brands fa-github"></i>
+    <i class="fa-brands fa-github"></i> GitHub
 </a>
 </div>
 ```
@@ -42,28 +47,96 @@ Through [Tidy Intelligence](https://www.tidy-intelligence.com/), I audit data wo
 
 ### Peer-Reviewed
 
-**Chaderina, M., Muermann, A., & Scheuch, C.** (2026). *The dark side of liquid bonds in fire sales*. Management Science, Forthcoming. [doi.org/10.1287/mnsc.2023.03670](https://doi.org/10.1287/mnsc.2023.03670)
+::: {.entry}
+[The dark side of liquid bonds in fire sales](https://doi.org/10.1287/mnsc.2023.03670) [Management Science · Forthcoming]{.entry-meta}
 
-**Hautsch, N., Scheuch, C., & Voigt, S.** (2024). *Building trust takes time: Limits to arbitrage for blockchain-based assets*. Review of Finance, 28 (4), 1345–1381. [doi.org/10.1093/rof/rfae004](https://doi.org/10.1093/rof/rfae004)
+Chaderina, M., Muermann, A., & Scheuch, C.
+:::
+
+::: {.entry}
+[Building trust takes time: Limits to arbitrage for blockchain-based assets](https://doi.org/10.1093/rof/rfae004) [Review of Finance 28(4) · 2024]{.entry-meta}
+
+Hautsch, N., Scheuch, C., & Voigt, S.
+:::
 
 ### Books
 
-**Scheuch, C., Voigt, S., Weiss, P., & Frey, C.** (2024). *Tidy Finance with Python*. Chapman and Hall/CRC. [doi.org/10.1201/9781032684307](https://doi.org/10.1201/9781032684307)
+::: {.entry}
+[Tidy Finance with Python](https://doi.org/10.1201/9781032684307) [Chapman and Hall/CRC · 2024]{.entry-meta}
 
-**Scheuch, C., Voigt, S., & Weiss, P.** (2023). *Tidy Finance with R*. Chapman and Hall/CRC. [doi.org/10.1201/b23237](https://doi.org/10.1201/b23237)
+Scheuch, C., Voigt, S., Weiss, P., & Frey, C.
+:::
+
+::: {.entry}
+[Tidy Finance with R](https://doi.org/10.1201/b23237) [Chapman and Hall/CRC · 2023]{.entry-meta}
+
+Scheuch, C., Voigt, S., & Weiss, P.
+:::
 
 ### Working Papers
 
-**Chaderina, M. & Scheuch, C.** (2026). *Liquidity Management of Mutual Funds*. Working Paper. [doi.org/10.2139/ssrn.3075091](http://dx.doi.org/10.2139/ssrn.3075091)
+::: {.entry}
+[Liquidity management of mutual funds](https://doi.org/10.2139/ssrn.3075091) [Working paper · 2026]{.entry-meta}
 
-**Coqueret, G., Llull, J., Oswald, F., Pérignon, C., Scheuch, C., & Vilhuber, L.** (2026). *Randomness in large language models: What researchers need to know (and report)*. Working Paper. [doi.org/10.2139/ssrn.7191580](https://doi.org/10.2139/ssrn.7191580)
+Chaderina, M. & Scheuch, C.
+:::
 
-**D’Acunto, F., Rauter, T., Scheuch, C., & Weber, M.** (2020). *Perceived precautionary savings motives: Evidence from FinTech*. NBER Working Paper No. 26817, National Bureau of Economic Research. [doi.org/10.3386/w26817](https://doi.org/10.3386/w26817) 
+::: {.entry}
+[Randomness in large language models: What researchers need to know (and report)](https://doi.org/10.2139/ssrn.7191580) [Working paper · 2026]{.entry-meta}
+
+Coqueret, G., Llull, J., Oswald, F., Pérignon, C., Scheuch, C., & Vilhuber, L.
+:::
+
+::: {.entry}
+[Perceived precautionary savings motives: Evidence from FinTech](https://doi.org/10.3386/w26817) [NBER Working Paper No. 26817 · 2020]{.entry-meta}
+
+D’Acunto, F., Rauter, T., Scheuch, C., & Weber, M.
+:::
 
 ## Teaching
 
-**Foundations for Reproducible Research** at [Barcelona School of Economics](https://bse.eu/summer-school/data-science-finance/tidy-finance-reproducible-research-in-data-science): An annual summer school on reproducible empirical finance research, with hands-on coding in Python.
+### Current
 
-**Empirical Research in Finance** at [Humboldt University of Berlin](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=247222&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung): A regular seminar on applying core financial theory to real-world data using generative AI tools, designed to prepare students for their bachelor thesis.
+::: {.entry-label}
+Humboldt University of Berlin
+:::
 
-**Reproducible Research Workflows** at [Vienna Graduate School of Finance](https://www.vgsf.ac.at/reproducible-research-workflows-workshop/): An annual workshop on reproducibility techniques and efficient collaboration for empirical research.
+::: {.entry}
+[Empirical Research in Finance](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=247222&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) [Seminar · Every semester]{.entry-meta}
+
+Students apply core financial theory to real-world data with generative AI tools and prepare for their bachelor thesis.
+:::
+
+::: {.entry}
+[Bachelor Thesis Seminar in Finance](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=247310) [Seminar · Every semester]{.entry-meta}
+
+How to plan, research, and write a bachelor thesis in finance.
+:::
+
+::: {.entry}
+[Financial Economics for Citizens](https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung&veranstaltung.veranstid=247220) [Course · Annual]{.entry-meta}
+
+Financial economics from the perspective of a nation's citizens. Students practice collaborating effectively with AI and with each other.
+:::
+
+::: {.entry-label}
+Vienna Graduate School of Finance
+:::
+
+::: {.entry}
+[Reproducible Research Workflows](https://www.vgsf.ac.at/reproducible-research-workflows-workshop/) [Workshop · Annual]{.entry-meta}
+
+Techniques for reproducible empirical research and efficient collaboration.
+:::
+
+### Past
+
+::: {.entry-label}
+Barcelona School of Economics
+:::
+
+::: {.entry .entry-past}
+[Foundations for Reproducible Research](https://bse.eu/summer-school/data-science-finance/tidy-finance-reproducible-research-in-data-science) [Summer school]{.entry-meta}
+
+Reproducible empirical finance research with hands-on coding in Python.
+:::
