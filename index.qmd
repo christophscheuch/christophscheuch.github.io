@@ -25,7 +25,7 @@ I'm an Associate Researcher at [Humboldt University of Berlin](https://www.wiwi.
 
 I co-created the open-source projects [Tidy Finance](https://www.tidy-finance.org/) and [EconDataverse](https://www.econdataverse.org/) to foster reproducible research in finance and economics. 
 
-Through [Tidy Intelligence](https://www.tidy-intelligence.com/), I audit and improve data workflows. I also offer trainings in the practices that keep their results trustworthy.
+Through [Tidy Intelligence](https://www.tidy-intelligence.com/), I audit and improve data workflows. I also offer trainings in the practices that keep results trustworthy.
 
 ```{=html}
 <div class="button-group">
