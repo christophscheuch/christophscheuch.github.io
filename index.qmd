@@ -48,13 +48,13 @@ Through [Tidy Intelligence](https://www.tidy-intelligence.com/), I audit and imp
 ### Peer-Reviewed
 
 ::: {.entry}
-[The dark side of liquid bonds in fire sales](https://doi.org/10.1287/mnsc.2023.03670) [Management Science · Forthcoming]{.entry-meta}
+[The Dark Side of Liquid Bonds in Fire Sales](https://doi.org/10.1287/mnsc.2023.03670) [Management Science · Forthcoming]{.entry-meta}
 
 Chaderina, M., Muermann, A., & Scheuch, C.
 :::
 
 ::: {.entry}
-[Building trust takes time: Limits to arbitrage for blockchain-based assets](https://doi.org/10.1093/rof/rfae004) [Review of Finance 28(4) · 2024]{.entry-meta}
+[Building Trust Takes Time: Limits to Arbitrage for Blockchain-Based Assets](https://doi.org/10.1093/rof/rfae004) [Review of Finance 28(4) · 2024]{.entry-meta}
 
 Hautsch, N., Scheuch, C., & Voigt, S.
 :::
@@ -76,19 +76,25 @@ Scheuch, C., Voigt, S., & Weiss, P.
 ### Working Papers
 
 ::: {.entry}
-[Liquidity management of mutual funds](https://doi.org/10.2139/ssrn.3075091) [Working paper · 2026]{.entry-meta}
+[tidyfinance: Transparent Factor Construction for Empirical Asset Pricing](https://github.com/tidy-finance/paper-factor-construction) [Working paper · 2026]{.entry-meta}
+
+Frey, C., Scheuch, C., Voigt, S., & Weiss, P.
+:::
+
+::: {.entry}
+[Liquidity Management of Mutual Funds](https://doi.org/10.2139/ssrn.3075091) [Working Paper · 2026]{.entry-meta}
 
 Chaderina, M. & Scheuch, C.
 :::
 
 ::: {.entry}
-[Randomness in large language models: What researchers need to know (and report)](https://doi.org/10.2139/ssrn.7191580) [Working paper · 2026]{.entry-meta}
+[Randomness in Large Language Models: What Researchers Need to Know (and Report)](https://doi.org/10.2139/ssrn.7191580) [Working Paper · 2026]{.entry-meta}
 
 Coqueret, G., Llull, J., Oswald, F., Pérignon, C., Scheuch, C., & Vilhuber, L.
 :::
 
 ::: {.entry}
-[Perceived precautionary savings motives: Evidence from FinTech](https://doi.org/10.3386/w26817) [NBER Working Paper No. 26817 · 2020]{.entry-meta}
+[Perceived Precautionary Savings Motives: Evidence from FinTech](https://doi.org/10.3386/w26817) [NBER Working Paper No. 26817 · 2020]{.entry-meta}
 
 D’Acunto, F., Rauter, T., Scheuch, C., & Weber, M.
 :::
